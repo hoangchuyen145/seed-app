@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "seed-app"
+  "defaultProject": "seed-app",
+  "cli": {
+    "analytics": "bd0ceaf5-f33c-4648-ac13-3d7b61824ba1"
+  }
 }
